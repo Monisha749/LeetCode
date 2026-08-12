@@ -4,7 +4,7 @@ public:
         int maxlen=INT_MIN;
         int l=0;
         int r=0;
-        map<int,int>mp;
+        unordered_map<int,int>mp;
         while(l<nums.size() && r<nums.size()){
             mp[nums[r]]++;
             while(mp[nums[r]]>k){
