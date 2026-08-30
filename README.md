@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Monisha749/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Monisha749/LeetCode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Monisha749/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0347-top-k-frequent-elements](https://github.com/Monisha749/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Monisha749/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Monisha749/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Monisha749/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Monisha749/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Monisha749/LeetCode/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/Monisha749/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Monisha749/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Monisha749/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Monisha749/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Monisha749/LeetCode/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Monisha749/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Monisha749/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Monisha749/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Monisha749/LeetCode/tree/master/0567-permutation-in-string) |
@@ -104,4 +107,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Monisha749/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Monisha749/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Monisha749/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Monisha749/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Monisha749/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Monisha749/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Monisha749/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
