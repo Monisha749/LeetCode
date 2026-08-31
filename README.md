@@ -132,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Monisha749/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0728-self-dividing-numbers](https://github.com/Monisha749/LeetCode/tree/master/0728-self-dividing-numbers) |
 <!---LeetCode Topics End-->
