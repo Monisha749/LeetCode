@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Monisha749/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2090-k-radius-subarray-averages](https://github.com/Monisha749/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Monisha749/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3903-smallest-stable-index-i](https://github.com/Monisha749/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Monisha749/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Monisha749/LeetCode/tree/master/0525-contiguous-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Monisha749/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [3903-smallest-stable-index-i](https://github.com/Monisha749/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
